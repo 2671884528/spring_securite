@@ -1,0 +1,5 @@
+# Project exclude paths
+/csrf/target/
+/first/target/
+/two/target/
+/web/target/
